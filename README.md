@@ -1,5 +1,8 @@
 # MAS_Workshop1
 Taller uno maestría en arquitectura de Software.
+
+Cada diagrama tiene su imagen adjunta.
+
 ### Escenario 1
 
 Para el escenario uno, se selecciona el patrón **Builder** (patrón creacional) ya que se logra identificar que la definición *"Builder es un patrón de diseño creacional que permite construir objetos complejos paso a paso. El patrón permite producir diferentes tipos y representaciones de un objeto utilizando el mismo código de construcción"*.
